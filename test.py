@@ -7,3 +7,6 @@ print(b)
 print(c)
 
 print('Hallo Welt')
+
+
+print('Ich bin Entwickler 2')
