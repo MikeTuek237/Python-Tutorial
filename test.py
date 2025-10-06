@@ -1,5 +1,5 @@
 a = 10000
-b = 10
+b = 10000
 c = 'Hallo Welt'
 
 print(a)
